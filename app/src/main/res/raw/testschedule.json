@@ -1,0 +1,1303 @@
+
+
+{
+  "games": [
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team Soup",
+        "The Llama Team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 16"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "MSK",
+        "Fish"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 16"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Team 3",
+        "Team Whatever"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 16"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Team 6",
+        "Team 7"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team 0",
+        "Team Soup"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Iron Men",
+        "The Llama Team"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Team 3",
+        "TBD"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Test Team",
+        "Another fucking team"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "TTTEAAAMMMM",
+        "Road Ninjas"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Team 5",
+        "Team PK"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "MSK",
+        "Team Red"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Green",
+        "Team PK"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team Black",
+        "The other green team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Hockey Team",
+        "Gray Team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "PU",
+        "LB"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Feb 22"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Tribe",
+        "BK"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Feb 23"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team Orange",
+        "Thats What She Set"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Feb 23"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Whatever",
+        "Team Yellow"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Feb 23"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team Donkey",
+        "GY"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 23"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "The drunk team",
+        "BK2"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 23"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Fish",
+        "Monsters"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 23"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "BK",
+        "Team Whatever"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team Red",
+        "Fish"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team 6",
+        "GY"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Gray Team",
+        "Team 0"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team PK",
+        "Team Donkey"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Soup",
+        "Hockey Team"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "The Llama Team",
+        "The other green team"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Road Ninjas",
+        "Team 5"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Orange",
+        "Team 3"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Iron Men",
+        "Team Black"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team PK",
+        "TTTEAAAMMMM"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Test Team",
+        "PU"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Feb 29"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Another fucking team",
+        "LB"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 01"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "MSK",
+        "BK2"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 01"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Thats What She Set",
+        "TBD"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 01"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Monsters",
+        "The drunk team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 01"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team 7",
+        "Team Green"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 01"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Team Yellow",
+        "Tribe"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 01"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Team 6",
+        "Team PK"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team 5",
+        "LB"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Test Team",
+        "Road Ninjas"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Fish",
+        "The drunk team"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "MSK",
+        "Monsters"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Green",
+        "Team Donkey"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Iron Men",
+        "Team Soup"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team 7",
+        "GY"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "PU",
+        "Team PK"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "TTTEAAAMMMM",
+        "Another fucking team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Black",
+        "Gray Team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Team 0",
+        "The Llama Team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Mar 07"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Team Red",
+        "BK2"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 08"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team Whatever",
+        "TBD"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 08"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Orange",
+        "BK"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 08"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team 3",
+        "Team Yellow"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 08"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Tribe",
+        "Thats What She Set"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 08"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Hockey Team",
+        "The other green team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 08"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "The Llama Team",
+        "Team Black"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Hockey Team",
+        "Team 0"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Gray Team",
+        "Team Soup"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "TBD",
+        "Team Orange"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Another fucking team",
+        "PU"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team 5",
+        "TTTEAAAMMMM"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "GY",
+        "Team Green"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team 7",
+        "Team PK"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "The drunk team",
+        "MSK"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team PK",
+        "Road Ninjas"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "LB",
+        "Test Team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "The other green team",
+        "Iron Men"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Mar 14"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "BK2",
+        "Fish"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 15"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team Red",
+        "Monsters"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 15"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Donkey",
+        "Team 6"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 15"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Thats What She Set",
+        "Team 3"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 15"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Whatever",
+        "Tribe"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 15"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Team Yellow",
+        "BK"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 15"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "PU",
+        "TTTEAAAMMMM"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team PK",
+        "GY"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "GY",
+        "Team PK"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Fish",
+        "MSK"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Team Soup",
+        "The other green team"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Hockey Team",
+        "Iron Men"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "The Llama Team",
+        "Gray Team"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Road Ninjas",
+        "LB"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "BK",
+        "TBD"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Another fucking team",
+        "Team PK"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team Green",
+        "Team 6"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team 5",
+        "Test Team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Team Red",
+        "The drunk team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Mar 21"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Team 7",
+        "Team Donkey"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 22"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team 3",
+        "Tribe"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 22"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Black",
+        "Team 0"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Mar 22"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Thats What She Set",
+        "Team Yellow"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 22"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "BK2",
+        "Monsters"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 22"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Team Whatever",
+        "Team Orange"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Mar 22"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "PU",
+        "TTTEAAAMMMM"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team PK",
+        "Team 6"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Soup",
+        "The other green team"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Team Green",
+        "Team Donkey"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team Whatever",
+        "Team Orange"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "BK",
+        "TBD"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Monsters",
+        "MSK"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Team 5",
+        "Test Team"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "GY",
+        "Team 7"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Hockey Team",
+        "Iron Men"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Fish",
+        "The drunk team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Another fucking team",
+        "Team PK"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Jan 25"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "BK2",
+        "Team Red"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Jan 26"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Thats What She Set",
+        "Team Yellow"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Jan 26"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Road Ninjas",
+        "LB"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Jan 26"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "The Llama Team",
+        "Gray Team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Jan 26"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Black",
+        "Team 0"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Jan 26"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Team 3",
+        "Tribe"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Jan 26"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "BK",
+        "Team 3"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "The drunk team",
+        "MSK"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Monsters",
+        "Team Red"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Team Donkey",
+        "Team 6"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "GY",
+        "Team Green"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "TBD",
+        "Team Yellow"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "TTTEAAAMMMM",
+        "Test Team"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Road Ninjas",
+        "PU"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Another fucking team",
+        "Team 5"
+      ],
+      "location": "A bar somewhere",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "The other green team",
+        "Gray Team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "The Llama Team",
+        "Hockey Team"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Team 0",
+        "Iron Men"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Mon. Feb 01"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Thats What She Set",
+        "Team Whatever"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Feb 02"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Tribe",
+        "Team Orange"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Feb 02"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "BK2",
+        "Fish"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Feb 02"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "LB",
+        "Team PK"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 02"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team PK",
+        "Team 7"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 02"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Team Soup",
+        "Team Black"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 02"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "The other green team",
+        "Team 0"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 08"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Road Ninjas",
+        "Another fucking team"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 08"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Yellow",
+        "Team Orange"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 08"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "Team 6",
+        "Team Green"
+      ],
+      "location": "Silver Lake",
+      "day": "Mon. Feb 08"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "PU",
+        "Team 5"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 08"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Gray Team",
+        "Iron Men"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 08"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team PK",
+        "Test Team"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 08"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "The drunk team",
+        "Team Red"
+      ],
+      "location": "A gym somewhere",
+      "day": "Mon. Feb 08"
+    },
+    {
+      "startTime": "06:30 PM",
+      "teams": [
+        "Team Black",
+        "Hockey Team"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Feb 09"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "Monsters",
+        "BK2"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Feb 09"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "BK",
+        "Thats What She Set"
+      ],
+      "location": "A bar somewhere",
+      "day": "Tue. Feb 09"
+    },
+    {
+      "startTime": "07:30 PM",
+      "teams": [
+        "TBD",
+        "Tribe"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 09"
+    },
+    {
+      "startTime": "08:30 PM",
+      "teams": [
+        "Team Donkey",
+        "Team 7"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 09"
+    },
+    {
+      "startTime": "09:30 PM",
+      "teams": [
+        "LB",
+        "TTTEAAAMMMM"
+      ],
+      "location": "Liberty Plaza",
+      "day": "Tue. Feb 09"
+    }
+  ]
+}
+
