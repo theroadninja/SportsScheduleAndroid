@@ -9,6 +9,7 @@ import org.joda.time.LocalDateTime;
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;
 import org.joda.time.format.DateTimeFormatterBuilder;
+import org.joda.time.format.ISODateTimeFormat;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -61,6 +62,29 @@ public class Schedule {
 
         private DateTime jodaDateTime = null;
 
+
+
+
+        public static DateTimeFormatter createZogDateParser(){
+            DateTimeFormatter fmt = new DateTimeFormatterBuilder()
+                    .appendDayOfWeekShortText()
+                    .appendLiteral(". ")
+                    .appendMonthOfYearText()
+                    .appendLiteral(" ")
+                    .appendDayOfMonth(2)
+                    .appendLiteral(".")
+                    .appendYear(2,4) //min,max digits
+                    .appendLiteral("NOTASGOODASRUBY")
+                    //.appendHourOfDay(2)  //apparently this causes it to ignore the AM/PM
+                    .appendClockhourOfHalfday(2)
+                    .appendLiteral(':')
+                    .appendMinuteOfHour(2)
+                    .appendLiteral(" ")
+                    .appendHalfdayOfDayText()
+                    .toFormatter();
+            return fmt;
+        }
+
         public Game(JSONObject j, Map<String, String> nameToAddress) throws JSONException {
             JSONArray jteams = j.getJSONArray(TEAMS);
             for(int i = 0; i < jteams.length(); ++i){
@@ -110,26 +134,12 @@ public class Schedule {
 
 
 
-            DateTimeFormatter fmt = new DateTimeFormatterBuilder()
-                    .appendDayOfWeekShortText()
-                    .appendLiteral(". ")
-                    .appendMonthOfYearText()
-                    .appendLiteral(" ")
-                    .appendDayOfMonth(2)
-                    .appendLiteral(".")
-                    .appendYear(2,4) //min,max digits
-                    .appendLiteral("NOTASGOODASRUBY")
-                    .appendHourOfDay(2)
-                    .appendLiteral(':')
-                    .appendMinuteOfHour(2)
-                    .appendLiteral(" ")
-                    .appendHalfdayOfDayText()
-                    .toFormatter();
+            DateTimeFormatter fmt = createZogDateParser();
 
             jodaDateTime = fmt.parseDateTime(parseMe).withZoneRetainFields(DateTimeZone.forID("America/New_York")); //TODO: hardcoded TZ
 
-
-            Log.e(TAG, parseMe + " parsed to " + jodaDateTime.toString());
+            DateTimeFormatter isoDateFormat = ISODateTimeFormat.dateTime();
+            Log.e(TAG, parseMe + " parsed to " + jodaDateTime.toString() + " in iso8601: " + jodaDateTime.toString(isoDateFormat));
 
 
 
@@ -186,7 +196,9 @@ public class Schedule {
             DateTime utc = jodaDateTime.withZone(DateTimeZone.UTC);
             DateTime utcEnd = utc.withFieldAdded(DurationFieldType.hours(), GAME_LENGTH_HOURS);
 
+            DateTimeFormatter isoDateFormat = ISODateTimeFormat.dateTime();
             DateTimeFormatter dtf = DateTimeFormat.forPattern("yyyyMMdd'T'HHmmss'Z'");
+            //DateTimeFormatter dtf = isoDateFormat;
 
             //mine type is text/calendar
 
@@ -196,8 +208,10 @@ public class Schedule {
 
             //sb.append("DTSTART;TZID=America/New_York:" + utc.toString(dtf)).append("\n");
             //sb.append("DTEND;TZID=America/New_York:" + utcEnd.toString(dtf)).append("\n");
-            sb.append("DTSTART:" + utc.toString(dtf)).append("\n");
-            sb.append("DTEND:" + utcEnd.toString(dtf)).append("\n");
+
+            //have to get rid of the -'s because otherwise google wont read the date correctly
+            sb.append("DTSTART:" + utc.toString(dtf).replace("-","")).append("\n");
+            sb.append("DTEND:" + utcEnd.toString(dtf).replace("-", "")).append("\n");
 
 
             sb.append("DTSTAMP:" + DateTime.now().toString(dtf)).append("\n");
